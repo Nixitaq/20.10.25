@@ -46,7 +46,6 @@ void Podelit(T a, T b)
 	{
 		cout << a << "/" << b << "=" << a + b << endl;
 	}
-	cout << a << "/" << b << "=" << a + b << endl;
 }
 
 int main()
